@@ -7,7 +7,7 @@ This project uses a **clean frontend (HTML + Bootstrap)** and a **serverless AI 
 ---
 
 ## 🚀 Live Demo
-👉 *(Add your hosted link here once deployed)*
+👉 https://sujanprasad.github.io/Text-Summarizer/
 
 ---
 
